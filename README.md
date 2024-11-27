@@ -1,5 +1,5 @@
 ## Hi there 👋  I'm Subastri
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e](https://pin.it/2U6ERSPvf).gif">
+<img align="right" width="370" height="290" src="https://pin.it/2U6ERSPvf.gif">
 
 - 🔭 I’m currently studying on A.V.C college of Engineering
 - 🌱 I’m currently learning Web Development
