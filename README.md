@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Subastri
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e](https://pin.it/2U6ERSPvf).gif">
+
 - 🔭 I’m currently studying on A.V.C college of Engineering
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on MVC
