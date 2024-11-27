@@ -1,12 +1,13 @@
 ## Hi there 👋  I'm Subastri
-<img align="right" width="370" height="290" src="https://i.pin.it/2U6ERSPvf.gif">
+<img align="right" width="370" height="290" src="">
 
 - 🔭 I’m currently studying on A.V.C college of Engineering
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on MVC
-- 🤔 I’m looking for help with placements on
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with placements on Jobs
+- 💬 Ask me about 
+- 📫 How to reach me</br>
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/subastri-p)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### 💻 Workspace Spec
