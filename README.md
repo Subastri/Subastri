@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with placements on Jobs
 - 💬 Ask me about 
 - 📫 How to reach me
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/subastri-p)
+     <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/subastri-p)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ### 💻 Workspace Spec
