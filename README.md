@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying on A.V.C college of Engineering
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Junior java Development
 - 🤔 I’m looking for help with placements on Jobs
 - 💬 Ask me about As I'm  a fresher 
 - 📫 How to reach me
